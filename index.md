@@ -5,7 +5,7 @@ layout: home
 
 # Konstantinos Chonas
 
-![Profile Picture](profile.jpg)
+<!--![Profile Picture](profile.jpg)-->
 
 ## Welcome to My Portfolio!
 
@@ -46,6 +46,7 @@ This is my ![Github-Repo](https://github.com/KonstantinosChonas/ThroughTheLines)
 ### Education
 
 - **Bachelor of Science in Information Technology**
+  
   National And Kapodistrian University Of Athens
   Graduated: September 2023
 
@@ -67,9 +68,4 @@ This is my ![Github-Repo](https://github.com/KonstantinosChonas/ThroughTheLines)
 
 Feel free to get in touch! You can reach me by email at [k.honas2000@gmail.com](mailto:k.honas2000@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/johndoe).
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
