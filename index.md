@@ -3,8 +3,6 @@ title: Home
 layout: home
 ---
 
-# Konstantinos Chonas
-
 <!--![Profile Picture](profile.jpg)-->
 
 ## Welcome to My Portfolio!
@@ -37,7 +35,7 @@ Collaborated with a team to develop an e-commerce website using React and Redux.
 
 im currently developing a mobile game in unity.
 
-This is my ![Github-Repo](https://github.com/KonstantinosChonas/ThroughTheLines)
+This is my [Github-Repo].
 
 ---
 
@@ -69,3 +67,7 @@ This is my ![Github-Repo](https://github.com/KonstantinosChonas/ThroughTheLines)
 Feel free to get in touch! You can reach me by email at [k.honas2000@gmail.com](mailto:k.honas2000@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/johndoe).
 
 
+
+
+
+[Github-Repo]: https://github.com/KonstantinosChonas/ThroughTheLines
