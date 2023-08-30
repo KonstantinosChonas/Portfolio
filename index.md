@@ -36,7 +36,9 @@ Collaborated with a team to develop an e-commerce website using React and Redux.
 ### Project 3: mobile game.
 
 im currently developing a mobile game in unity.
+
 This is my ![Github-Repo](https://github.com/KonstantinosChonas/ThroughTheLines)
+
 ---
 
 ## About Me
@@ -53,6 +55,7 @@ This is my ![Github-Repo](https://github.com/KonstantinosChonas/ThroughTheLines)
 - Version Control (Git)
 - Problem-Solving
 - Eager to learn anything new
+- 
 ### Achievements???
 
 - Dean's List for academic excellence
