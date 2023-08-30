@@ -3,29 +3,66 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Konstantinos Chonas
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+![Profile Picture](profile.jpg)
 
-More specifically, the created site:
+## Welcome to My Portfolio!
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Hi there! I'm Konstantinos Chonas, an enthusiastic IT graduate with a passion for coding and problem-solving. I specialize in software development and have experience with C, C++, Python, Java.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### Connect with Me
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- Email: k.honas2000@gmail.com
+- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
 
-To get started with creating a site, simply:
+---
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Latest Work
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Check out some of my recent projects:
 
-----
+### Project 1: Personal Website
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+I Built this website.
+
+### Project 2: E-commerce Store
+
+Collaborated with a team to develop an e-commerce website using React and Redux. Integrated payment gateways and implemented responsive design.
+
+![E-commerce Store](ecommerce.jpg)
+
+
+### Project 3: mobile game.
+
+im currently developing a mobile game in unity.
+This is my ![Github-Repo](https://github.com/KonstantinosChonas/ThroughTheLines)
+---
+
+## About Me
+
+### Education
+
+- **Bachelor of Science in Information Technology**
+  National And Kapodistrian University Of Athens
+  Graduated: September 2023
+
+### Skills
+
+- software Development (C, C++, Python, Java)
+- Version Control (Git)
+- Problem-Solving
+- Eager to learn anything new
+### Achievements???
+
+- Dean's List for academic excellence
+- Top Performer in the Web Development Hackathon
+
+---
+
+## Contact
+
+Feel free to get in touch! You can reach me by email at [k.honas2000@gmail.com](mailto:k.honas2000@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/johndoe).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
